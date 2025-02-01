@@ -1,0 +1,12 @@
+Date: Tue, 27 Oct 2020 15:16:59 -0400 (EDT)
+From: test_from@apache.org
+To: test_to@apache.org
+Message-ID: <1727373358.23.1603826219290.JavaMail.foyzul@UMD-001868>
+Subject: TestFoldedHeaderMail
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-TestHeader: This is a very long header value which should be folded into
+ two lines, hopefully
+
+This is a test mail with a folded header value... :-)

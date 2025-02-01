@@ -1,0 +1,26 @@
+Date: Tue, 27 Oct 2020 15:16:59 -0400 (EDT)
+From: test_from@apache.org
+To: test_to@apache.org
+Message-ID: <690035101.11.1603826219269.JavaMail.foyzul@UMD-001868>
+Subject: [email] 1.Test: text + html content
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_9_1006297128.1603826219266"
+
+------=_Part_9_1006297128.1603826219266
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_10_393594087.1603826219266"
+
+------=_Part_10_393594087.1603826219266
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Your email client does not support HTML messages
+------=_Part_10_393594087.1603826219266
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html><b>This is a HTML message without any image</b><html>
+------=_Part_10_393594087.1603826219266--
+
+------=_Part_9_1006297128.1603826219266--
